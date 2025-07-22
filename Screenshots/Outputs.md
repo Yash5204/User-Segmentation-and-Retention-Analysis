@@ -1,11 +1,11 @@
-**RFM Segmentation**
+**User based RFM segmentation**
+<img width="862" height="511" alt="image" src="https://github.com/user-attachments/assets/09904cac-a8a9-423c-b212-8074b87db4cf" />
 
-<img width="798" height="487" alt="image" src="https://github.com/user-attachments/assets/23f32e82-d262-43e7-ad53-faeaac77f410" />
-
-**User Retention by Cohort Week**
-
-<img width="935" height="548" alt="image" src="https://github.com/user-attachments/assets/8742d680-6676-4ee1-894d-10314391818d" />
-
+**Churn rate by segment**
+<img width="780" height="500" alt="image" src="https://github.com/user-attachments/assets/66b2b308-c353-4e07-b569-51711ea84158" />
 
 **User Drop-off Funnel (Weekly Retention)**
-<img width="1258" height="434" alt="image" src="https://github.com/user-attachments/assets/e55c4ff4-4a81-48b3-8965-01b768a95959" />
+<img width="1419" height="346" alt="image" src="https://github.com/user-attachments/assets/67353903-8f5d-4eeb-a404-f3212359ea71" />
+
+**User Retention by Cohort Days**
+<img width="677" height="791" alt="image" src="https://github.com/user-attachments/assets/1b8465a8-9764-4ae3-ba89-d70068241966" />
